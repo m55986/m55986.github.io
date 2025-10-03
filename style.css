@@ -1,0 +1,15 @@
+:root { --cell-size: 28px; }
+
+body{
+  background-color: lightgrey;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+pre {
+  color: black;
+  font-size: 20px;
+}
